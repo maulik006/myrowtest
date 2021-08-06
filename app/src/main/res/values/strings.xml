@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyRowTest</string>
+    <string name="lbl_submit">Submit</string>
+    <string name="lbl_change_config">Change Config</string>
+    <string name="lbl_enter_limit">Enter Limit</string>
+</resources>
